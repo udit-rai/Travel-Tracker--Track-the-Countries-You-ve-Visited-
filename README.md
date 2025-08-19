@@ -1,0 +1,2 @@
+# Travel Tracker: Track the Countries You've Visited
+Built with Node.js, Express, EJS templates, and PostgreSQL for persistent storage, A full-stack web app to track the countries you’ve visited and visualize them on an interactive world map. Features:  Add a country you’ve visited using a form.  Save country data in PostgreSQL.  Display visited countries visually on a world map.  Show total count of countries visited.  This project demonstrates backend CRUD operations, database integration, and frontend visualization.
